@@ -16,7 +16,7 @@ Main keys and default values:
 	identifier_event = event            // value that identify the current event
 	regex_event_occorrence = [hMSC:bMSC][component:instance]:[event:time]  //statement that represent event default structure
 
-The tracer.properties can be modificade with new values and with new values, but this modifications can demand in attributes in Tracer.java
+The tracer.properties can be modificade with new values, but this modifications can demand in attributes in Tracer.java
 
 The second file (ii) represents a class that save values that will constitute each one of events.
 
